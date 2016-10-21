@@ -14,16 +14,16 @@ var facts = {
             "the I.S.D.S students get good jobs",
             "the I.S.D.S students get the highest salary in the business school"],
     professors: [
-            "I.S.D.S professors publish a lot",
+            "The I.S.D.S department has an extrememly diverse mix of professors",
             "I.S.D.S professors love to teach",
             "I.S.D.S professors engage in very interesting projects",
             "I.S.D.S professors like to work with students one on one",
             "I.S.D.S professors are fun people",
             "I.S.D.S professors work hard and play harder"],
     courses: [
-            "I.S.D.S courses prepare you for a great career",
+            "A degree in I.S.D.S makes you eligible for a job in any major industry in the world",
             "idsds courses are challenging but fun",
-            "many students from other departments take I.S.D.S courses ",
+            "The median salary for a job requiring an Information Systems degree is approximately 75,000 dollars per year ",
             "I.S.D.S courses are hands on and provide with grat skills",
             "I.S.D.S courses are both technical and strategic",
             "I.S.D.S courses will get you a job"]
