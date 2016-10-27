@@ -1,0 +1,51 @@
+var facts = {
+	students:	[
+			"Students pursuing a Bachelor's degree in I.S.D.S. can choose to concentrate in either Business Intelligence or Information Technology ",
+			"Did you know that there are currently _ students in the I.S.D.S. program?",
+			"The Association of Information Technology Professionals is a great organization for I.S.D.S. students to get inolved in",
+			"I.S.D.S. students that study abroad are highly competitive in the global market
+			"_% of I.S.D.S. students have full time job offers within 6 months of graduation"],
+	professors:	[
+			"Did you know that _ of the I.S.D.S. professors are alumni of L.S.U.?",
+			"The I.S.D.S. department has a diverse faculty from _ cities and _ different countries",
+			"The I.S.D.S. faculty have expertise in various domains like e-commerce, medical informatics, quantitative modeling, and more ",
+			"Many of the faculty members in I.S.D.S. are published in magazines, academic journals, and textbooks "
+			"insert fact 5"],
+
+		isds:	[
+			"The I.S.D.S. department offers a Bachelor of Science in I.S.D.S., a Master of Science in Analytics and a PhD in I.S.D.S.",
+			"The I.S.D.S. department connects students to a career network that provides opportunities for students during and after college",
+			"The department of Information Systems and Decision Sciences prepares students to design, implement, analyze, and manage information technology",
+			"The I.S.D.S. department strives to accomplish research that makes significant contributions to the advancement of knowledge"
+			"insert fact 5"],
+	LSU/ BEC:	[
+			"the Business Education Complex is among the top 10 business school facilities in the country",
+			"the B.E.C. is a state of the art facility with a four-story rotunda, a 300 seat auditorium, and classrooms equipped with the latest technology",
+			"The Business Education Complex has been home to the E.J. Ourso School of Business since 2012",
+			"the B.E.C. is a 60 million dollar facility making it the largest public/private capital inevestment in the history of LSU"
+			"insert fact 5"]		
+};		
+ 
+var courses = {
+	questions:	[
+		"are you interested in programming?",
+		"do you want to learn more about Big Data?",
+		"would you like to learn how to design and implement internet applications?",
+		"would you like to know about how to use the internet as a resource?",]
+	suggestions:	[
+		"ok, based on your preferences I would suggest taking a beginning programming course",
+		"if this is the case, consider a course like internet development tools ",
+		"advanced business programming is a course that can teach you how",
+		"the management of information resources course explores this concept"]
+};
+
+var paths = {
+	questions: [
+		"do you want to learn how to analyze, design, and implement systems to support the operations and management functions of an organization? ",
+		"would you like a career that involves extracting actionable information from massive sets of organizaitonal data?",
+		"do you have a desire to conduct scholarly research and instruct in a university environment?"]
+	suggestions: [
+		"based on what you have expressed, I would suggest pursuing a Bachelor of Science in I.S.D.S., areas of specialization include economics, finance, and management",
+		"a master of science in analytics can equip you with the tools you need",
+		"if so, you should consider pursuing a phd in I.S.D.S."]	
+};	
